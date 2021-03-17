@@ -7,4 +7,4 @@ This string representing a file's address is the first element of the args[] arr
 Therefore, my program reads args[0] (the first argument of args[] array), creates the corresponding JSONObject using org.json library, and 
 prints the flattened version of JSONObject to stdout.
 
-(I had the second contributor to this project because I used a template provided in my Program Design class, which contains all JUnit libraries)
+(I have the second contributor to this project because I used a template provided in my Program Design class, which contains all JUnit libraries)
