@@ -67,8 +67,8 @@ public class JSONConversion {
 
     /**
      * The recursive function that iterates over all keys on a given "layer",
-     * appends the corresponding endings to the key names to the new JSONObject,
-     * and adds the key-value pair if the value doesn't represent JSONObject.
+     * appends the corresponding endings to the key names, and adds the key-value pair
+     * if the new value doesn't represent JSONObject.
      *
      * @param keyStr   the string representing the appended keys (AKA "key path") to the
      *                 given value
